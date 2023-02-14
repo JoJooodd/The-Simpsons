@@ -10,4 +10,11 @@ Un poco acerca de lo que son [The Simpsons](https://es.wikipedia.org/wiki/Los_Si
  ![Imagen de la serie](https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/70D3467689219126A2A5F78B340D2F168D975A15DEE2BDDF159B8EB2D3B24C0E/scale?width=1200&aspectRatio=1.78&format=jpeg)
  ![Imagen de la serie](https://cdn.vox-cdn.com/thumbor/rQ1bBNYNox4NHDNnXUjpWT0IBhs=/0x0:1920x1080/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47413330/the-simpsons-tv-series-cast-wallpaper-109911.0.0.jpeg)
 
-
+### Personajes
+1. Personajes
+    * Principales
+        - Homero
+        - Marge
+        - Bart
+        - Lisa
+        - Maggie
